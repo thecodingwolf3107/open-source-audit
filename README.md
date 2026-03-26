@@ -7,7 +7,7 @@
 - University: VIT Bhopal
 
 ## Project Overview
-This​‍​‌‍​‍‌​‍​‌‍​‍‌ project aims to discuss the philosophy, licensing, and ecosystem of open-source software with Linux serving as the main example. Besides that, there are practical shell scripting exercises to show off Linux command-line ​‍​‌‍​‍‌​‍​‌‍​‍‌skills.
+With Linux as the primary example, this project seeks to explore the philosophy, ecosystem, and licensing of open-source software. In addition, there are useful shell scripting exercises to demonstrate Linux command-line proficiency.
 
 ## Scripts Included
 
@@ -27,8 +27,8 @@ Counts occurrences of keywords in log files.
 Generates a personalized open-source statement.
 
 ## 🖥️ How to Run Scripts
-Make sure you are using a Linux environment (Ubuntu / WSL).
-For each script, follow these steps:
+Verify that you are operating in a Linux environment (Ubuntu or WSL).
+For every script, take the following actions:
 
 chmod +x script1.sh
 ./script1.sh
