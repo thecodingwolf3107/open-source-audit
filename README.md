@@ -1,4 +1,4 @@
-# Open Source Software Audit Project
+# Open Source Software Project
 
 ## Student Details
 - Name: Ayushman Kumar
@@ -7,7 +7,7 @@
 - University: VIT Bhopal
 
 ## Project Overview
-With Linux as the primary example, this project seeks to explore the philosophy, ecosystem, and licensing of open-source software. In addition, there are useful shell scripting exercises to demonstrate Linux command-line proficiency.
+This project aims to investigate the philosophy, ecosystem, and licensing of open-source software, using Linux as the main example. Additionally, there are helpful shell scripting exercises to show off your command-line skills with Linux.Cript, take these actions:
 
 ## Scripts Included
 
